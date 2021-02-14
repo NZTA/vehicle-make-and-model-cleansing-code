@@ -2,7 +2,7 @@
 
 Our Motor Vehicle Register (MVR) open dataset contains information on vehicle make and models, as well as other information. 
 
-[MVR open data (NZTA open data portal)](https://opendata-nzta.opendata.arcgis.com/datasets/motor-vehicle-register-2) 
+[MVR open data (NZTA open data portal)](https://opendata-nzta.opendata.arcgis.com/search?tags=MVR) 
 
 The open dataset isn’t the original raw data, as sometimes make and model information is misspelled when people fill in forms with vehicle details. 
 
